@@ -20,9 +20,16 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 ## 🔗 Connect with Me
 - [Profile](https://about.me/shakiruadinan_smartass)
 - [Twitter](https://twitter.com/yourusername)
-- [Facebook](https://www.facebook.com/SHAKTec143)
+- [Facebook]()
 - [Whatsapp](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
 - [Telegram](t.me/shakiruadinani)
+## 🔗 Connect with Me
+
+[![Facebook](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.facebook.com/SHAKTec143)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23F24E1E?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
+
 
 ## 🏆 GitHub Stats
 
