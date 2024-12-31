@@ -26,9 +26,10 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![SHAKTech143's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAKTech143&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTech143&layout=compact&theme=radical)](https://github.com/SHAKTech143)
+
 
 ## 📚 Recent Projects
 - [Project 1](https://github.com/yourusername/project1) - Short description of Project 1
