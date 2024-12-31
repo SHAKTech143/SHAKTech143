@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 
 ## 🔗 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.facebook.com/SHAKTec143)
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2?style=flat&logo=twitter&logoColor=light-blue)](t.me/shakiruadinani)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-%23121011?style=flat&logo=github&logoColor=green)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
-[![Profile](https://img.shields.io/badge/Portfolio-%23F24E1E?style=flat&logo=internet-explorer&logoColor=black)](https://about.me/shakiruadinan_smartass)
+[![Facebook](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Facebook &logoColor=white)](https://www.facebook.com/SHAKTec143)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2?style=flat&logo=telegram &logoColor=light-blue)](t.me/shakiruadinani)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%23121011?style=flat&logo=Whatsapp &logoColor=green)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
+[![Profile](https://img.shields.io/badge/Profile-%23F24E1E?style=flat&logo=internet-explorer&logoColor=black)](https://about.me/shakiruadinan_smartass)
 
 
 ## 🏆 GitHub Stats
