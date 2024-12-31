@@ -1,5 +1,8 @@
 # Hello, I'm SHAKIRU 👋
 
+![SHAKIRU](https://raw.githubusercontent.com/yourusername/yourrepo/main/shakiru.svg)
+
+
 Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Data Scientist passionate about technology and coding. I specialize in html,css,php, java, JavaScript. so you can ask about that and about others I don't have full knowledge so I can't prosely.
 
 ## 🚀 About Me
