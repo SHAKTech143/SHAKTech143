@@ -2,6 +2,7 @@
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=10&color=3C9CF7&background=7E42FF00&center=true&vCenter=true&width=435&height=60&lines=Hello+I'm+SHAKIRU+ADINANI+;or+you+can+call+me+;SHAKTech143+%F0%9F%91%8B;Welcome+to+my+profile+" alt="Typing SVG" /></a>
+</h1>
 
 Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Data Scientist passionate about technology and coding. I specialize in html,css,php, java, JavaScript. so you can ask about that and about others I don't have full knowledge so I can't prosely.
 
