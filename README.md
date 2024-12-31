@@ -1,6 +1,10 @@
-# Hello, I'm SHAKIRU 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-![SHAKIRU](https://raw.githubusercontent.com/yourusername/yourrepo/main/shakiru.svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SHAKIRU+ADINANI;or+you+can+call+me;SHAKTech143;Nice+to+meet+you!&center=true&size=40">
+  </a>
+</h1>
 
 
 Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Data Scientist passionate about technology and coding. I specialize in html,css,php, java, JavaScript. so you can ask about that and about others I don't have full knowledge so I can't prosely.
