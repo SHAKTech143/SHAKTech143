@@ -19,11 +19,13 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 
 ## 🔗 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=Facebook &logoColor=white)](https://www.facebook.com/SHAKTec143)
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2?style=flat&logo=telegram &logoColor=light-blue)](t.me/shakiruadinani)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-%23121011?style=flat&logo=Whatsapp &logoColor=green)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
-[![Profile](https://img.shields.io/badge/Profile-%23F24E1E?style=flat&logo=internet-explorer&logoColor=black)](https://about.me/shakiruadinan_smartass)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
+[![Telegram](https://img.shields.io/badge/Telegram-%0088CCF1?style=flat&logo=telegram&logoColor=white)](https://t.me/shakiruadinani)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MRshakiru143)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/SHAKTech143)
+[![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
+[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white)](https://shaktech143.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=red)](https://about.me/shakiruadinan_smartass)
 
 ## 🏆 GitHub Stats
 
