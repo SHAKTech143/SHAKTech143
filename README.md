@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MRshakiru143)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/SHAKTech143)
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
-[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white)](https://shaktech143.blogspot.com/)
-[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=red)](https://about.me/shakiruadinan_smartass)
+[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white&logoWidth=50)](https://shaktech143.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=black &logoWidth=50)](https://about.me/shakiruadinan_smartass)
 
 ## 🏆 GitHub Stats
 
