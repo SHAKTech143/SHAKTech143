@@ -18,15 +18,15 @@ Welcome to my GitHub profile! I'm a [Your profession, e.g., Software Developer, 
 - 🛠️ **Frameworks**: React, Express, Django, Flask, Spring Boot
 
 ## 🔗 Connect with Me
-- [Profile] (https://about.me/shakiruadinan_smartass)
+- [Profile](https://about.me/shakiruadinan_smartass)
 - [Twitter](https://twitter.com/yourusername)
 - [Facebook](https://www.facebook.com/SHAKTec143)
 - [Whatsapp](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
-- [Telegram] (t.me/shakiruadinani)
+- [Telegram](t.me/shakiruadinani)
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api? SHAKTech143=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api? username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
