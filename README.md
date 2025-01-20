@@ -22,13 +22,12 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 ## 🔗 Connect with Me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
-[![Telegram](https://img.shields.io/badge/telegram-%0088CCF1?style=flat&logo=telegram&logoColor=white)](https://t.me/shakiruadinani)
+[![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=blue&logoWidth=80)](https://t.me/shakiruadinani)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MRshakiru143)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/SHAKTech143)
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white&logoWidth=50)](https://shaktech143.blogspot.com/)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=black&logoWidth=80&logoLength=60)](https://about.me/shakiruadinan_smartass)
-[![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=blue&logoWidth=80&logoLength=60)](https://t.me/shakiruadinani)
 
 
 ## 🏆 GitHub Stats
