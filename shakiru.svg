@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" font-family="Arial, sans-serif">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="50" font-family="teko">
     <tspan fill="red">
-      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="fill" values="green;red;blue;green;orange;purple;red" dur="3s" repeatCount="indefinite" />
       SHAKIRU
     </tspan>
   </text>
