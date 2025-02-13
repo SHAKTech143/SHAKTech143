@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white)](https://shaktech143.blogspot.com/)
 [![profile](https://img.shields.io/badge/Profile-%2300A859?style=flat&logo=blogger&logoColor=black)](https://about.me/shakiruadinan_smartass)
-</h2>
 
 ## 🏆 GitHub Stats
 
