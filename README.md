@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 - ⚙️ **Tools**: Git, Docker, Kubernetes, VSCode, Jupyter, Postman
 - 🛠️ **Frameworks**: React, Express, Django, Flask, Spring Boot
 
-## 🔗** Connect with Me**
+## 🔗 Connect with Me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
 [![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=#24A1DE&logoWidth=80)](https://t.me/shakiruadinani)
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/SHAKTech143)
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white&logoWidth=50)](https://shaktech143.blogspot.com/)
-[![profile](https://img.shields.io/badge/web-%2300A859?style=flat&logo=blogger&logoColor=black&logoWidth=80&logoLength=60)](https://about.me/shakiruadinan_smartass)
+[![profile](https://img.shields.io/badge/Profile-%2300A859?style=flat&logo=blogger&logoColor=black&logoWidth=80&logoLength=60)](https://about.me/shakiruadinan_smartass)
 
 
 ## 🏆 GitHub Stats
