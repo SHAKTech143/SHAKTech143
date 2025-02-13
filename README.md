@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/SHAKTech143)
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white&logoWidth=50)](https://shaktech143.blogspot.com/)
-[![profile](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=black&logoWidth=80&logoLength=60)](https://about.me/shakiruadinan_smartass)
+[![profile](https://img.shields.io/badge/web-%2300A859?style=flat&logo=blogger&logoColor=black&logoWidth=80&logoLength=60)](https://about.me/shakiruadinan_smartass)
 
 
 ## 🏆 GitHub Stats
@@ -35,8 +35,9 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 ![SHAKTech143's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHAKTech143&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTech143&layout=compact&theme=radical)](https://github.com/SHAKTech143)
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg","https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
-
+<br>
 <img src="https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<
 
 S7V9HRNN7GJ73VQ4EBEHNMM2
