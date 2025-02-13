@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 - 🛠️ **Frameworks**: React, Express, Django, Flask, Spring Boot
 
 ## 🔗 Connect with Me
-
+<center>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
 [![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=#24A1DE&logoWidth=80)](https://t.me/shakiruadinani)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MRshakiru143)
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 [![Facebook](https://img.shields.io/badge/Facebook-%231E3C6D?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SHAKTec143)
 [![Blog](https://img.shields.io/badge/Blog-%2300A859?style=flat&logo=blogger&logoColor=white)](https://shaktech143.blogspot.com/)
 [![profile](https://img.shields.io/badge/Profile-%2300A859?style=flat&logo=blogger&logoColor=black)](https://about.me/shakiruadinan_smartass)
-
+</center>
 
 ## 🏆 GitHub Stats
 
