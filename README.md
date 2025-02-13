@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 - ⚙️ **Tools**: Git, Docker, Kubernetes, VSCode, Jupyter, Postman
 - 🛠️ **Frameworks**: React, Express, Django, Flask, Spring Boot
 
-## 🔗 Connect with Me
+## 🔗** Connect with Me**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
 [![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=#24A1DE&logoWidth=80)](https://t.me/shakiruadinani)
@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTech143&layout=compact&theme=radical)](https://github.com/SHAKTech143)
 <br>
-<img src="https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-<
+<img src="https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%"><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
 
 S7V9HRNN7GJ73VQ4EBEHNMM2
