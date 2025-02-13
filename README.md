@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 - 🛠️ **Frameworks**: React, Express, Django, Flask, Spring Boot
 
 ## 🔗 Connect with Me
-<h2 align="center">
+<p align="center">
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384BF44?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/message/NEMNSYUI5KJNP1?autoload=1&app_absent=0)
 [![Telegram](https://img.shields.io/badge/telegram-%2300A859?style=flat&logo=telegram&logoColor=#24A1DE&logoWidth=80)](https://t.me/shakiruadinani)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MRshakiru143)
