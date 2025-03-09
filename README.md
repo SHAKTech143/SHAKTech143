@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=#f507cd&right_color=green">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=blue&right_color=green">
 
 <h1 align="center">
 <a href="https://github.com/SHAKTech143"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=10&color=3C9CF7&background=7E42FF00&center=true&vCenter=true&width=435&height=60&lines=Hello+I'm+SHAKIRU+ADINANI+;or+you+can+call+me+;SHAKTech143+%F0%9F%91%8B;Welcome+to+my+profile+" alt="SHAKTech143" /></a>
