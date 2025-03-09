@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka&left_color=red& right_color=white">
 
 <h1 align="center">
 <a href="https://github.com/SHAKTech143"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=10&color=3C9CF7&background=7E42FF00&center=true&vCenter=true&width=435&height=60&lines=Hello+I'm+SHAKIRU+ADINANI+;or+you+can+call+me+;SHAKTech143+%F0%9F%91%8B;Welcome+to+my+profile+" alt="SHAKTech143" /></a>
@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a Software Developer, Full-Stack Developer, Da
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHAKTech143&layout=compact&theme=radical)](https://github.com/SHAKTech143)
 <br>
-<img src="https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%"><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"><img src="https://media2.giphy.com/media/PSDjLz3KxeGcpYF4um/giphy.gif?cid=6c09b952hwnbuls3kcrh4w3vomyz510v17ngrebu8gi0wcei&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%">
-
+<img src="https://media2.giphy.com/media/sZJE1DzZOadRLoXzxX/giphy.gif?cid=6c09b9528huw9mn4v7xv1k1r1k2y95v4ixpfs48hhgm0est7&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="100%"><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 S7V9HRNN7GJ73VQ4EBEHNMM2
