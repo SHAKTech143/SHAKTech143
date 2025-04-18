@@ -478,5 +478,5 @@
        top: 555px; 
        } 
      .tech-line-bottom2 { 
-       bottom: 480px; 
+       bottom: 480px;
        }
